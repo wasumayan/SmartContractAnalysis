@@ -1,3 +1,5 @@
+#ECE 473/ COS 473 Final Project
+
 ## Installation
 
 Run the install script to install
@@ -20,3 +22,11 @@ The addresses have to be in the 2nd column
 ```bash
 python3 entry.py -d path_to_csv
 ```
+## LLM Checker
+
+Requires an input.txt, and API Key
+
+
+
+
+
