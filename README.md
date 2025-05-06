@@ -1,4 +1,4 @@
-#ECE 473/ COS 473 Final Project
+# ECE 473/ COS 473 Final Project
 
 ## Installation
 
@@ -24,7 +24,7 @@ python3 entry.py -d path_to_csv
 ```
 ## LLM Checker
 
-Requires an input.txt, and API Key
+Requires an input.txt, and api key
 
 
 
